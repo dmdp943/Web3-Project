@@ -31,3 +31,4 @@ termcolor
 selenium
 webdriver_manager
 beautifulsoup4
+lxml

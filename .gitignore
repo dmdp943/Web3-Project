@@ -8,3 +8,6 @@ raw_data/
 .env
 *.zip
 *.identifier
+*.Identifier
+*.keep
+chormedriver/
