@@ -9,7 +9,10 @@ numpy
 pandas
 openpyxl
 scikit-learn
-
+matplotlib
+seaborn
+regex
+xmltodict 
 # tests/linter
 black
 coverage
