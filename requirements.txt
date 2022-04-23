@@ -12,7 +12,9 @@ scikit-learn
 matplotlib
 seaborn
 regex
-xmltodict 
+xmltodict
+statsmodels
+pyarrow
 # tests/linter
 black
 coverage
